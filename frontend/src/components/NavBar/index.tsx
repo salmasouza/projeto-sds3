@@ -1,6 +1,6 @@
 
 
-import ImgDsDark from 'assets/img/ds-dark.svg';
+import ImgDsDark from 'assets/img/ds_dark.svg';
 
 // eslint-disable-next-line @typescript-eslint/no-redeclare
 const NavBar = () => {
